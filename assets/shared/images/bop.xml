@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bop.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bop0000" x="0" y="0" width="1515" height="870" frameX="0" frameY="-2" frameWidth="1515" frameHeight="872"/>
+	<SubTexture name="Bop0001" x="1515" y="0" width="1469" height="867" frameX="-23" frameY="0" frameWidth="1515" frameHeight="872"/>
+	<SubTexture name="Bop0002" x="0" y="870" width="1431" height="847" frameX="-42" frameY="-18" frameWidth="1515" frameHeight="872"/>
+	<SubTexture name="Bop0003" x="1431" y="870" width="1298" height="778" frameX="-42" frameY="-18" frameWidth="1515" frameHeight="872"/>
+	<SubTexture name="Bop0004" x="2729" y="870" width="1214" height="776" frameX="-126" frameY="-18" frameWidth="1515" frameHeight="872"/>
+	<SubTexture name="Bop0005" x="2729" y="870" width="1214" height="776" frameX="-126" frameY="-18" frameWidth="1515" frameHeight="872"/>
+	<SubTexture name="Bop0006" x="0" y="1717" width="1209" height="776" frameX="-126" frameY="-18" frameWidth="1515" frameHeight="872"/>
+</TextureAtlas>

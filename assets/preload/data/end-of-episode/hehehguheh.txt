@@ -1,0 +1,8 @@
+:bean: !13! ;false; oh look at the time!
+:bean: !13! ;false; it's almost the end of the episode!
+:gf: !13! ;false; ?????
+:boy: !13! ;false; ?????
+:nobody: !14! ;false; 
+:boy: !14! ;false; BEEEP
+:bean: !14! ;false; Time for our last song for this episode.
+:boy: !15! ;false; beepbopbab

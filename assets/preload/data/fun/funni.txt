@@ -1,0 +1,4 @@
+:bean: !12! ;false; Room 426.
+:gf: !12! ;false; ?????
+:boy: !12! ;false; ?????
+:bean: !12! ;false; it's time to get fun-KI

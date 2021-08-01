@@ -1,0 +1,12 @@
+:bean: !16! ;false; welp! 
+:bean: !16! ;false; this is the end of the episode.
+:bean: !16! ;false; bye bye
+:gf: !16! ;false; BYE!!!
+:boy: !16! ;false; skpoop!
+:nobody: !17! ;false; 
+:nobody: !18! ;false; 
+:gf: !18! ;false; see you next episode!
+:boy: !18! ;false; boopbeep
+:gf: !19! ;false; oh, he left his teddy!
+:gf: !19! ;false; pretty sure hell come back for it later.
+:boy: !19! ;false; skeepbadabeep

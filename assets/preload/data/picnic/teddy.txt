@@ -1,0 +1,15 @@
+:gf: !1! ;false; what a relaxing walk at the park!
+:boy: !1! ;false; beepboopskedoop
+:gf: !2! ;false; hey look it's the funny man from TV!
+:boy: !3! ;false; beeeeeeeeppppp
+:gf: !4! ;false; let's come over to say Hi, maybe we can get his autograph.
+:bean: !5! ;true; Nghhhh...
+:bean: !6! ;false; Hgnh!
+:gf: !7! ;true; hi we are one of your fans and we wanna have an autograph!
+:boy: !7! ;false; beepskedopp
+:gf: !8! ;false; oh... oh...
+:boy: !8! ;false; boop
+:gf: !9! ;false; oh...
+:gf: !10! ;false; shit...
+:bean: !10! ;true; ???
+:boy: !11! ;true; BEEP BOOP (rap battle.)

@@ -1,0 +1,4 @@
+Tutorial:gf:1
+Picnic:bean:7
+Fun:bean:7
+End-Of-Episode:bean:7
